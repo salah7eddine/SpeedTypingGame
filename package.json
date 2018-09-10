@@ -1,0 +1,15 @@
+{
+  "name": "speedtypinggame",
+  "version": "1.0.0",
+  "description": "have fun to play with javascript",
+  "main": "index.js",
+  "dependencies": {
+    "gh-pages": "^1.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Salah-Edd",
+  "license": "ISC"
+}
